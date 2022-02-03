@@ -1,0 +1,1 @@
+# ANalisador-de-N-meroos
